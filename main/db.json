@@ -1,0 +1,12 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "todo": "hello",
+      "isCompleted": false
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
